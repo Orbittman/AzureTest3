@@ -1,0 +1,10 @@
+/Users/Tim/Documents/git/AzureTest3/bin/Debug/netcoreapp2.1/AzureTest3.deps.json
+/Users/Tim/Documents/git/AzureTest3/bin/Debug/netcoreapp2.1/AzureTest3.runtimeconfig.json
+/Users/Tim/Documents/git/AzureTest3/bin/Debug/netcoreapp2.1/AzureTest3.runtimeconfig.dev.json
+/Users/Tim/Documents/git/AzureTest3/bin/Debug/netcoreapp2.1/AzureTest3.dll
+/Users/Tim/Documents/git/AzureTest3/bin/Debug/netcoreapp2.1/AzureTest3.pdb
+/Users/Tim/Documents/git/AzureTest3/obj/Debug/netcoreapp2.1/AzureTest3.csproj.CoreCompileInputs.cache
+/Users/Tim/Documents/git/AzureTest3/obj/Debug/netcoreapp2.1/AzureTest3.AssemblyInfoInputs.cache
+/Users/Tim/Documents/git/AzureTest3/obj/Debug/netcoreapp2.1/AzureTest3.AssemblyInfo.cs
+/Users/Tim/Documents/git/AzureTest3/obj/Debug/netcoreapp2.1/AzureTest3.dll
+/Users/Tim/Documents/git/AzureTest3/obj/Debug/netcoreapp2.1/AzureTest3.pdb
