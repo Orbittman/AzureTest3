@@ -27,7 +27,7 @@ namespace AzureTest3
 
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("Hello World, this is an update!");
+                await context.Response.WriteAsync("Hello World, this is an update to test the slots!");
             });
         }
     }
